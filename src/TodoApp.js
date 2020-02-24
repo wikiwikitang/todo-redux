@@ -18,6 +18,7 @@ const TodoApp = () => {
   return (
     <div className="TodoApp">
       <InputTodo />
+      <hr />
       <DisplayTodos />
     </div>
   );
